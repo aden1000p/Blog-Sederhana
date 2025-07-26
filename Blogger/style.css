@@ -1,0 +1,14 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.h-200{
+    height: 50vh;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-image: url(images/pngtree-smart-technology-light-hd-background-picture-image_1473456.jpg);
+    background-clip: padding-box;
+    background-size: 100%;
+}
